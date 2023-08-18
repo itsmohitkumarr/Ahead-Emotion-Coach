@@ -52,8 +52,8 @@ const NinthSection = () => {
 								<span className='font-semibold text-2xl'>About</span>
 								<p>
 									At ahead our goal is to make self- improvement fun and
-									lasting. We know there's a way how to make it work. And that's
-									what aHead is all about!
+									lasting. We know there&apos;s a way how to make it work. And
+									that&apos;s what aHead is all about!
 								</p>
 							</div>
 							<div className='bg-[#fde8c7] w-[100%] h-[42%] px-10 pt-7 rounded-[3vh] opacity-[0.8]'>
