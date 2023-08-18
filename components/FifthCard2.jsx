@@ -31,7 +31,9 @@ const FifthCard2 = () => {
 				className='w-[60%] h-[34%] bg-white flex flex-col items-start justify-center== px-10 py-5 border-l-4 border-indigo-500'
 				ref={carRef}
 			>
-				<span className='font-bold text-2xl'>It's not as easy as 1-2-3.</span>
+				<span className='font-bold text-2xl'>
+					It&apos;s not as easy as 1-2-3.
+				</span>
 				<span className='font-semibold text-xl mt-2'>
 					The journey of change may be long, but our sessions are quick. We get
 					to the point and tell you what you want to know (and nothing else).

@@ -11,7 +11,7 @@ const FifthSection = () => {
 				<div className='w-[90%]'>
 					<div className='w-full h-[18%] flex flex-col '>
 						<span className='font-semibold text-lg'>
-							Wrong with self-improvement & how we're fixing it.
+							Wrong with self-improvement & how we&apos;re fixing it.
 						</span>
 						<span className='font-bold text-5xl mt-2'>
 							Self-improvement. Ugh.
