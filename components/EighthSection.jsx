@@ -91,8 +91,9 @@ const EighthSection = () => {
 					Before you get started
 				</span>
 				<span className='text-2xl font-normal text-center mb-4' ref={hinggRef}>
-					"We won't share your answers with anyone (and won't ever tell <br />
-					you which friends said what about you)"
+					&quot;We won&apos;t share your answers with anyone (and won&apos;t
+					ever tell <br />
+					you which friends said what about you)&quot;
 				</span>
 				<span
 					className='text-xl font-medium flex items-end mb-5'
